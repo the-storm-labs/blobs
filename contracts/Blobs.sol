@@ -3,7 +3,6 @@
 pragma solidity ^0.8.20;
 
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Capped.sol";
-import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract ETHHardForkCancunDencun is ERC20Capped {
 
